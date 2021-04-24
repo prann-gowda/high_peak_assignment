@@ -1,4 +1,5 @@
 MI Band : 999
 Sandwich Toaster : 2195
 Cult Pass : 2799
-And the difference between the chosen goodie with highest price and the lowest price is  : 1800
+Scale : 4999
+And the difference between the chosen goodie with highest price and the lowest price is  : 4000
